@@ -1,4 +1,5 @@
-Terminal
+<<<Terminal>>>
+
 ● Terminal Gnome masaüstü aracının komut
 satırı aracıdır.
 
@@ -12,3 +13,10 @@ daha çok eylem gerçekleştirilebilir
 ● Kali’ de terminali komut satırından açmak için
 ctrl + alt + T kombinasyonu kullanılır. Ayrıca
 grafik arayüzünden de açılabilir.
+  
+  
+  
+  
+  
+  
+  
